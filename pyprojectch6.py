@@ -1,12 +1,7 @@
-#CONDITIONALS
-# a=int(input("enter the age:"))
-# if(a>18):
-#     print("You can vote")
-# elif(a<0):
-#     print("Enter valid age")
-# else:
-#     print("You can't vote")
-''' QUESTIONS PRACTICE'''
+#CONDITIONAL STATEMENTS
+
+''' DETECTING GREATEST OF 4 NUMBERS ENTERED BY THE USER'''
+
 num1=int(input("Enter the 1st number:"))
 num2=int(input("Enter the 2nd number:"))
 num3=int(input("Enter the 3rd number:"))
