@@ -1,4 +1,4 @@
-''' print the pattern
+''' print the pattern without using loops
 for n=3
   *
  ***
